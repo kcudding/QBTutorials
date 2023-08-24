@@ -1,0 +1,14 @@
+Package: QBTutorials
+Title: Tutorials for BIOL 458 UWaterloo
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kim", "Cuddington", , "kcudding@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Tutorials to help students complete materials from the course
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Suggests: 
+    learnr
