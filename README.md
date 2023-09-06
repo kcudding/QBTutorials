@@ -1,5 +1,5 @@
 # QBTutorials
-
+https://github.com/kcudding/QBTutorials
 To run this package in R, 
 
 1. Install by typing devtools::install_github("kcudding/QBTutorials")
